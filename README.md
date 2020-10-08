@@ -13,6 +13,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How Kotlin lambda capture variable](https://medium.com/@yangweigbh/how-kotlin-lambda-capture-variable-ef90e11e531d?source=rss-dffba2e9ccf------2)
+- [How Kotlin optimize lambda under the hood](https://medium.com/@yangweigbh/how-kotlin-optimize-lambda-under-the-hood-3f7eb286736c?source=rss-dffba2e9ccf------2)
+- [Monitoring app termination on Android 11](https://medium.com/@yangweigbh/monitoring-app-termination-on-android-11-97d514a3f9?source=rss-dffba2e9ccf------2)
+- [Going Deep on AndroidX Benchmark](https://proandroiddev.com/going-deep-on-androidx-benchmark-d06b89765f9e?source=rss-dffba2e9ccf------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
