@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wei</h1>
-<h3 align="center">Android Dev working @Microsoft</h3>
+<h3 align="center">Model/Harness developer working @Microsoft</h3>
 
-- 🌱 I’m currently learning **Kotlin, Compose**
+- 🌱 I’m currently learning **Sglang, Model post-train**
 
 - 📝 I regulary write articles on [https://medium.com/@yangweigbh](https://medium.com/@yangweigbh)
-
-- 💬 Ask me about **Android, Kotlin, Java**
 
 - 📫 How to reach me **yangweigbh@hotmail.com**
 
